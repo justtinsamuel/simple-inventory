@@ -17,6 +17,15 @@ A lightweight inventory management app built with **React**, **Next.js**, and **
 ## 📦 Project Status
 Currently under development — core features are being built.
 
+## 🛣️ Roadmap
+- [x] Add item table UI
+- [x] Add item input form
+- [ ] Add category filter
+- [ ] Add disposal / delete functionality
+- [ ] Add backend support (optional)
+- [ ] Add reports & print/export
+
+
 ## 🛠️ Run Locally
 ```bash
 git clone https://github.com/justtinsamuel/simple-inventory
